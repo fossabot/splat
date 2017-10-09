@@ -1,4 +1,6 @@
 ## Splat
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fsplat.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fsplat?ref=badge_shield)
+
 
 ![](http://f.cl.ly/items/1307401C3x2g3F2p2Z36/Logo.png)
 
@@ -150,3 +152,7 @@ ModeDetector.InUnitTestRunner();
 // If true, we are running inside Blend, so don't do anything
 ModeDetector.InDesignMode();
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fsplat.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fsplat?ref=badge_large)
